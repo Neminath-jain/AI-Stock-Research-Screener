@@ -1,5 +1,5 @@
 ticker,name,sector,industry,current_price,market_cap,pe_ratio,fwd_pe,eps,revenue_ttm,net_income_ttm,gross_margin,net_margin,roe,total_debt,total_equity,debt_to_equity,current_ratio,dividend_yield,payout_ratio,beta,52w_high,52w_low,analyst_mean_target,analyst_low_target,analyst_high_target,recommendation,_hist,_rev_vals,revenue_cagr_5y,ann_volatility,sector_median_pe,pe_vs_sector,risk_score,risk_reasoning,dividend_sustainability,moat_rating,bull_target,bear_target,target_source,entry_low,stop_loss,composite_score
-TCS.NS,Tata Consultancy Services Limited,Technology,Information Technology Services,2093.5,7574465806336,15.384333,12.743036,136.08,2657010000000.0,493590000000.0,0.40307,0.1857689658676482,0.48395002,112829997056,,10.389,2.228,3.0946277,0.4632,0.241,3426.1,1976.8,2709.1707,1860.0,3841.0,buy,"Date
+TCS.NS,Tata Consultancy Services Limited,Technology,Information Technology Services,"₹2,088.00",$79.56 Billion,15.384333,12.776619,136.08,$27.91 Billion,$5.18 Billion,0.40307,0.1857689658676482,0.48395002,$1.19 Billion,$11.26 Billion,10.389,2.228,3.0946277,0.4632,0.241,"₹3,426.10","₹1,976.80","₹2,709.17","₹1,860.00","₹3,841.00",buy,"Date
 2021-08-01 00:00:00+05:30   3307.32
 2021-09-01 00:00:00+05:30   3297.80
 2021-10-01 00:00:00+05:30   2973.50
@@ -29,7 +29,7 @@ TCS.NS,Tata Consultancy Services Limited,Technology,Information Technology Servi
 2023-10-01 00:00:00+05:30   3095.42
 2023-11-01 00:00:00+05:30   3204.63
 2023-12-01 00:00:00+05:30   3485.62
-2024-01-01 00:00:00+05:30   3530.76
+2024-01-01 00:00:00+05:30   3530.77
 2024-02-01 00:00:00+05:30   3789.05
 2024-03-01 00:00:00+05:30   3586.60
 2024-04-01 00:00:00+05:30   3535.11
@@ -60,8 +60,8 @@ TCS.NS,Tata Consultancy Services Limited,Technology,Information Technology Servi
 2026-05-01 00:00:00+05:30   2258.90
 2026-06-01 00:00:00+05:30   2031.50
 2026-07-01 00:00:00+05:30   2093.50
-Name: Close, dtype: float64",[6.3973e+11 6.4479e+11 6.3437e+11 6.7087e+11 7.0698e+11],0.025303884314946457,0.20864526595483185,18.2864965,0.841294722583957,2,low beta (0.24); low vol (21%); very low debt (D/E 10%); strong liquidity (CR 2.23),Moderate,Moderate,3841.0,1860.0,analyst consensus,1860.0,1767.0,70.0
-META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,582.9,1479647035392,21.18866,15.82777,27.51,214962000000.0,70587000000.0,0.81941,0.32836966533619893,0.32930002,86769000448,,35.608,2.348,0.36,0.0764,1.246,796.25,520.26,828.16864,664.46,1015.0,strong_buy,"Date
+Name: Close, dtype: float64",[6.3973e+11 6.4479e+11 6.3437e+11 6.7087e+11 7.0698e+11],0.025303884314946457,0.20864529545588256,18.2864965,0.841294722583957,2,low beta (0.24); low vol (21%); very low debt (D/E 10%); strong liquidity (CR 2.23),Moderate,Moderate,"₹3,841.00","₹1,860.00",analyst consensus,"₹1,860.00","₹1,767.00",70.0
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,$582.65,$1.48 Trillion,21.18866,15.82777,27.51,$214.96 Billion,$70.59 Billion,0.81941,0.32836966533619893,0.32930002,$86.77 Billion,$217.24 Billion,35.608,2.348,0.36,0.0764,1.246,$796.25,$520.26,$828.17,$664.46,"$1,015.00",strong_buy,"Date
 2021-08-01 00:00:00-04:00   376.08
 2021-09-01 00:00:00-04:00   336.44
 2021-10-01 00:00:00-04:00   320.75
@@ -122,4 +122,4 @@ META,"Meta Platforms, Inc.",Communication Services,Internet Content & Informatio
 2026-05-01 00:00:00-04:00   631.92
 2026-06-01 00:00:00-04:00   563.29
 2026-07-01 00:00:00-04:00   582.90
-Name: Close, dtype: float64",[4.2314e+10 4.7516e+10 5.1242e+10 5.9893e+10 5.6311e+10],0.07405690015740007,0.4197937255625021,18.2864965,1.1587052774160431,6,moderate vol (42%); strong liquidity (CR 2.35),Safe,Strong,1015.0,664.46,analyst consensus,553.75,509.85,30.0
+Name: Close, dtype: float64",[4.2314e+10 4.7516e+10 5.1242e+10 5.9893e+10 5.6311e+10],0.07405690015740007,0.41979366310425703,18.2864965,1.1587052774160431,6,moderate vol (42%); strong liquidity (CR 2.35),Safe,Strong,"$1,015.00",$664.46,analyst consensus,$553.52,$509.85,30.0

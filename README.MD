@@ -20,35 +20,6 @@ An AI-powered stock research and screening tool for US and Indian equities. This
 - 📄 Excel Export
 - 📊 Data Visualization
 
----
-
-## 📂 Project Structure
-
-```
-AI-Stock-Research-Screener/
-│
-├── notebooks/
-│   └── stock_screener.ipynb
-│
-├── data/
-│   ├── screened_stocks.xlsx
-│   └── stock_analysis.xlsx
-│
-├── images/
-│   ├── leaderboard.png
-│   ├── performance_comparison.png
-│   ├── radar_chart.png
-│   ├── risk_return_scatter.png
-│   └── sector_heatmap.png
-│
-├── .env.example
-├── .gitignore
-├── README.MD
-└── .requirements.txt
-```
-
----
-
 ## ⚙ Installation
 
 Clone the repository
@@ -103,7 +74,7 @@ The notebook automatically
 
 ---
 
-## 🤖 AI-Generated Equity Research Reports
+## Equity Research Reports
 
 Generates comprehensive equity research reports using real-time market data, financial metrics, valuation analysis, risk assessment, analyst price targets, and AI-powered insights.
 
